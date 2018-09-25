@@ -10,10 +10,10 @@ end
 
 def average_student_gpa
   "SELECT gpa FROM students"
-end"
+end
 
 def total_tardies_for_all_students
-  "SELECT gpa FROM students
+  "SELECT gpa FROM students"
 end
 
 def average_gpa_for_9th_grade
